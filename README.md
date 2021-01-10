@@ -1,4 +1,4 @@
-# Trump Tweets
+# Complete Donald Trump Tweets Archive
 
 The file [realDonaldTrump_in_office.csv](data/realDonaldTrump_in_office.csv) contains **ALL** tweets, including later-deleted tweets, sent by `@realDonaldTrump` while Donald Trump is in office as the 45th president of the United States (from **20 Jan 2017** to **19 Jan 2021**).
 
@@ -10,5 +10,5 @@ Twitter has [permanently suspended the account @realDonaldTrump](https://blog.tw
 
 | Filename | Tweets Date Range | Tweets Count |
 | :------: | :---------------: | :----------: |
-| `data/realDonaldTrump_bf_office.csv` | `04 May 2009` - `19 Jan 2017` | 31249 |
-| `data/realDonaldTrump_in_office.csv` | `20 Jan 2017` - `08 Jan 2021` | 23075 |
+| `data/realDonaldTrump_bf_office.csv` | `04 May 2009` - `19 Jan 2017` | **31249** |
+| `data/realDonaldTrump_in_office.csv` | `20 Jan 2017` - `08 Jan 2021` | **23075** |
